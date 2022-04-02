@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/readthedocs-tutorial/static/css/main.a80152bf.css",
+    "main.js": "/readthedocs-tutorial/static/js/main.83d8ef27.js",
+    "static/js/787.199833fa.chunk.js": "/readthedocs-tutorial/static/js/787.199833fa.chunk.js",
+    "index.html": "/readthedocs-tutorial/index.html",
+    "main.a80152bf.css.map": "/readthedocs-tutorial/static/css/main.a80152bf.css.map",
+    "main.83d8ef27.js.map": "/readthedocs-tutorial/static/js/main.83d8ef27.js.map",
+    "787.199833fa.chunk.js.map": "/readthedocs-tutorial/static/js/787.199833fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a80152bf.css",
+    "static/js/main.83d8ef27.js"
+  ]
+}
